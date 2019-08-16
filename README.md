@@ -5,6 +5,7 @@ Lottie is a mobile library for Android and iOS that parses [Adobe After Effects]
 For the first time, designers can create **and ship** beautiful animations without an engineer painstakingly recreating it by hand. They say a picture is worth 1,000 words so here are 13,000:
 
 ![Example1](gifs/Example1.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYubyf%2Flottie-android.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FYubyf%2Flottie-android?ref=badge_shield)
 
 
 ![Example2](gifs/Example2.gif)
@@ -250,3 +251,7 @@ If you would like to add more JSON files and screenshot tests, feel free to do s
 
 ## Issues or feature requests?
 File github issues for anything that is unexpectedly broken. If an After Effects file is not working, please attach it to your issue. Debugging without the original file is much more difficult.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FYubyf%2Flottie-android.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FYubyf%2Flottie-android?ref=badge_large)
